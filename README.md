@@ -1,2 +1,2 @@
 # Algorithms
-Various algorithms writed on python
+Various algorithms written on python
