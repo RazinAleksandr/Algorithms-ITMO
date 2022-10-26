@@ -16,3 +16,4 @@ experimental comparison of them with Nelder-Mead and Levenberg-Marquardt algorit
 and Breadth-first search)
 - Algorithms_6 - The use of path search algorithms on weighted graphs (Dijkstra's, A* and Bellman-Ford
 algorithms)
+- Algorithms_8 - Practical analysis of advanced algorithms (Floyd-Warshall and Johnson algorithms)
